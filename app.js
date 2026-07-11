@@ -21,7 +21,6 @@ const words = [
     "Responsive Web Designer",
     "JavaScript Developer",
     "Bootstrap Developer",
-    "Creative UI Designer",
     "Building Modern Websites"
 ];
 
